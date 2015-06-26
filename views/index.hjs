@@ -1,11 +1,16 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{{ title }}</title>
+    <title>Corgi Tinder</title>
     <link rel='stylesheet' href='/stylesheets/style.css' />
   </head>
   <body>
-    <h1>{{ title }}</h1>
-    <p>Welcome to {{ title }}</p>
+    <h1>Corgi Tinder</h1>
+    <img src= "http://corgiguide.com/wp-content/uploads/2014/07/corgi-shedding-e1405769530776.jpg">
+    <h3>{{ name }}</h3>
+    <h3>{{ age }}</h3>
+    <h3>{{ toy }}</h3>
+    <h3>{{ activity }}</h3>
+    <!-- <p>Welcome to {{ title }}</p> -->
   </body>
 </html>
